@@ -24,7 +24,7 @@ const Footer = () => {
             </div>
         </div>
     </div>
-     <div className="block md:hidden bg-[#462512] w-full h-auto px-[32px] py-[16px]">
+     <div className="block md:hidden bg-[#462512] w-full h-auto px-[15px] py-[16px]">
         <div className='flex flex-col gap-[24px]'>
             
        
