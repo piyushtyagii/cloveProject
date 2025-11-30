@@ -34,7 +34,7 @@ const Footer = () => {
                 </h1>
                 <h4 className=" text-[20px] font-bold relative right-[9px]">D E N T A L</h4>
             </div>
-            <div className="flex flex-row">
+            <div className="flex flex-col gap-2 md:gap-0 md:flex-row">
                     <h3 className="font-Figtree font-[400] text-[16px] leading-[150%] text-[#FFFFFF]">Privacy Policy</h3>
                     <h3 className="font-Figtree font-[400] text-[16px] leading-[150%] text-[#FFFFFF]">Terms of Sevice</h3>
                 </div>
