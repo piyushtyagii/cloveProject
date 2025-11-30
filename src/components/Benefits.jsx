@@ -37,7 +37,7 @@ const Benefits = () => {
           </h2>
         </div>
         <div className="w-full flex flex-col-reverse md:flex-row justify-between">
-          <div className="flex w-full md:w-[55%] flex-col py-3 md:py-0 gap-[24px] md:gap-0  md:justify-evenly">
+          <div className="flex w-full md:w-[55%] flex-col py-3 md:py-0 gap-[40px] md:gap-0  md:justify-evenly">
             {questions.map((item, index) => (
               <div className="flex flex-col gap-4">
                 <div className="flex flex-row justify-between cursor-pointer" key={index}>
